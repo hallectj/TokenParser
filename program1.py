@@ -184,8 +184,4 @@ Please note, if an error was at all discovered previously, the
 entire line is skipped and that variable will not be recorded on the lines.
 For example if A3 is found in lines 1, 3, 4, and 7, but an ERROR occured
 in line 3, then A3 will display A3 [1, 4, 7] even though A3 was on line 3
-
-The instructions wasn't clear on whether or not to keep the variable up to the
-point of the error, or if an error is discovered at all, negate that entire line.
-So I choose the later.
 '''
