@@ -1,0 +1,10 @@
+A1 += Value - 100;
+Value *= 300 - myVar;
+Var1 = 100 - 20;
+myTree777 = 100;
+; A1 -= A1 + 2;
+6A1G7 = G - 3333;
+Value -- 56 + 2 + B2
+rTree + 989 - 100 + 23 - A1 ;
+Var1 + 5 - Value++
+B2 - B2 + Var1 
